@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-https://recordit.co/1UIGTjrhJl
+https://s3.amazonaws.com/img0.recordit.co/1UIGTjrhJl.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1650609685&Signature=%2FWLCvFAIA1%2B5woFRDon1kA2PLdU%3D
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![x]https://recordit.co/5bBj2R7s5e
