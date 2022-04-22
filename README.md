@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 https://s3.amazonaws.com/img0.recordit.co/1UIGTjrhJl.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1650609685&Signature=%2FWLCvFAIA1%2B5woFRDon1kA2PLdU%3D
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x]https://recordit.co/5bBj2R7s5e
+![x]https://s3.amazonaws.com/img0.recordit.co/5bBj2R7s5e.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1650609729&Signature=6ii6dH4ctuEXJr6vd8RwPcY7PpQ%3D
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
